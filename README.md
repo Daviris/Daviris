@@ -1,3 +1,3 @@
-### !Buenas¡ Mi nombre es David Gaona Duque.
+### ¡Buenas! Mi nombre es David Gaona Duque.
 
-Soy estudiante.
+Soy estudiante y me gusta mucho programar.
