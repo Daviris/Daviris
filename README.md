@@ -1,3 +1,3 @@
-### ¡Buenas! Mi nombre es David Gaona Duque.
+### Hello! My name is David.
 
-Soy estudiante y me gusta mucho programar.
+I am a student and I love programming.
